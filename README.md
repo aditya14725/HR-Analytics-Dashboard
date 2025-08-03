@@ -16,6 +16,8 @@ This Power BI dashboard provides insights into human resource metrics to assist 
 ✔️ Drill-down functionality for detailed exploration
 
 # 📊 Dashboard Overview
+<img width="1177" height="715" alt="Image" src="https://github.com/user-attachments/assets/e89775aa-c705-4f9f-add7-e5ba93c4b8a6" />
+
 # 🏗️ Built With
 Power BI Desktop
 
